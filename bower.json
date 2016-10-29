@@ -1,0 +1,25 @@
+{
+  "name": "Theme1",
+  "authors": [
+    "marcop0 <pintomarco@gmx.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "animate.css": "^3.5.2"
+  },
+  "install" : {
+	"path" : "libs"
+  }
+}
